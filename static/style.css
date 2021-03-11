@@ -1,0 +1,18 @@
+.first-cls{
+    border-top: 1px solid;
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+.first-cls div{
+    padding: 10px;
+}
+
+.cont{
+    padding: 10px;
+    border: 1px solid;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
